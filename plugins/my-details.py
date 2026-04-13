@@ -1,4 +1,4 @@
-# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL | LISA-KOREA/UnZip-Bot
+# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL | LISA-KOREA/UPLOADER-BOT-V4
 
 # [⚠️ Do not change this repo link ⚠️] :- https://github.com/LISA-KOREA/UPLOADER-BOT-V4
 
@@ -13,3 +13,19 @@
 # (C) Don’t Change And Edit This File ✍️ | Warning ⚠️
 
 # ©️ 2022 - 2026
+
+
+#print(JOBIN J\n\<b>nMy Master</b>\nJoin @NT_BOTS_SUPPORT)
+
+
+
+
+
+
+
+
+
+
+
+
+
